@@ -1,0 +1,80 @@
+.bg-gris{
+    background-color: darkgray;
+}
+
+.bg-purple{
+    background-color: rgb(223, 221, 217);
+}
+
+.bg-radiantee{
+    background: linear-gradient(to bottom right, rgb(231, 33, 33), rgb(65, 65, 244), rgb(159, 30, 159));
+}
+
+.bg-blue{
+    background-color: cornflowerblue; 
+}
+
+.mt-6{
+    margin-top: 6rem;
+}
+
+.bg-morado{
+    background-color: rebeccapurple;
+    color: azure;
+}
+
+.historia-1{
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.tamaño{
+    width: 200px;
+    height: 230px;
+    display: block;
+    margin: 0 auto;
+}
+
+.articulos{
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.input-padron{
+    display:block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox{
+    margin: 20px 0;
+}
+
+.flexbox-2 { 
+    display:flex; 
+    justify-content: right;
+    height: 50px;
+}
+
+.enviar{
+    border-radius: 10px;
+    border: black 10px;
+}
+
+.enviar:hover{
+    background-color: darkorange;
+    transform: scale(1.2);
+}
+
+.formcontacto{
+    width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
